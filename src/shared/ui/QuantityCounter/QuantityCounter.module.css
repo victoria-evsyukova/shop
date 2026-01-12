@@ -1,0 +1,4 @@
+.counter-button:disabled {
+    background-color: #DEE2E6 !important;
+    color: #ADB5BD !important;
+}

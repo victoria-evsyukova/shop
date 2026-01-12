@@ -1,0 +1,14 @@
+.tab {
+  border-bottom: 4px solid transparent;
+  margin-bottom: 0;
+  transition: all 0.3s ease;
+}
+
+.tab[data-active] {
+  border-bottom-color: #54B46A;
+}
+
+.tab:hover {
+    border-bottom-color: #54B46A;
+    background-color: transparent;
+}
