@@ -1,2 +1,2 @@
 
-https://victoria-evsyukova.github.io/shop-vegetables-reduxThunk/
+https://victoria-evsyukova.github.io/shop/
