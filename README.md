@@ -1,5 +1,5 @@
 
-Пет-проект: Интернет-магазин свежих овощей и фруктов "FreshMarket"
+**Пет-проект: Интернет-магазин свежих овощей и фруктов "FreshMarket"**
 
 https://victoria-evsyukova.github.io/shop/
 
